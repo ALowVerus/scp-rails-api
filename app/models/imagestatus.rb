@@ -1,0 +1,2 @@
+class Imagestatus < ApplicationRecord
+end

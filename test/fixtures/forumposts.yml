@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  thread: one
+  user: one
+  parent: one
+  title: MyString
+  time: 2018-10-28 19:43:50
+  content: MyText
+
+two:
+  thread: two
+  user: two
+  parent: two
+  title: MyString
+  time: 2018-10-28 19:43:50
+  content: MyText
